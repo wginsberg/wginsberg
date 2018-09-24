@@ -1,0 +1,28 @@
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    padding: 14px;
+}
+
+.feature {
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.feature > span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+footer {
+    height: 200px;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+}
