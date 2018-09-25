@@ -26,7 +26,7 @@ div.scrollmenu a {
     left: -250px;
     height: 100vh;
     z-index: 999;
-    background: #7386D5;
+    background: #d7d7d7;
     color: #fff;
     transition: all 0.3s;
     overflow-y: scroll;
@@ -95,13 +95,13 @@ div.scrollmenu a {
 
 #sidebar ul li a:hover {
     color: #7386D5;
-    background: #fff;
+    background: #c1c1c1;
 }
 
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
     color: #fff;
-    background: #6d7fcc;
+    background: #9d9d9d;
 }
 
 a[data-toggle="collapse"] {
@@ -141,7 +141,7 @@ a.download {
 
 a.article,
 a.article:hover {
-    background: #6d7fcc !important;
+    background: #9d9d9d !important;
     color: #fff !important;
 }
 
